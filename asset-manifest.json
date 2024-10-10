@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bollywood/static/css/main.6d29aa18.css",
-    "main.js": "/bollywood/static/js/main.935452f4.js",
-    "static/js/453.3ecf07c6.chunk.js": "/bollywood/static/js/453.3ecf07c6.chunk.js",
-    "static/media/bollywood_bg.jpg": "/bollywood/static/media/bollywood_bg.21de88f299e7ec5ad2e5.jpg",
-    "index.html": "/bollywood/index.html",
-    "main.6d29aa18.css.map": "/bollywood/static/css/main.6d29aa18.css.map",
-    "main.935452f4.js.map": "/bollywood/static/js/main.935452f4.js.map",
-    "453.3ecf07c6.chunk.js.map": "/bollywood/static/js/453.3ecf07c6.chunk.js.map"
+    "main.css": "/bolly/static/css/main.ff3f2d2e.css",
+    "main.js": "/bolly/static/js/main.43d25635.js",
+    "static/js/453.3ecf07c6.chunk.js": "/bolly/static/js/453.3ecf07c6.chunk.js",
+    "static/media/bollywood_bg.jpg": "/bolly/static/media/bollywood_bg.21de88f299e7ec5ad2e5.jpg",
+    "index.html": "/bolly/index.html",
+    "main.ff3f2d2e.css.map": "/bolly/static/css/main.ff3f2d2e.css.map",
+    "main.43d25635.js.map": "/bolly/static/js/main.43d25635.js.map",
+    "453.3ecf07c6.chunk.js.map": "/bolly/static/js/453.3ecf07c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d29aa18.css",
-    "static/js/main.935452f4.js"
+    "static/css/main.ff3f2d2e.css",
+    "static/js/main.43d25635.js"
   ]
 }
