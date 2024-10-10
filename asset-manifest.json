@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bollywood/static/css/main.6d29aa18.css",
+    "main.js": "/bollywood/static/js/main.935452f4.js",
+    "static/js/453.3ecf07c6.chunk.js": "/bollywood/static/js/453.3ecf07c6.chunk.js",
+    "static/media/bollywood_bg.jpg": "/bollywood/static/media/bollywood_bg.21de88f299e7ec5ad2e5.jpg",
+    "index.html": "/bollywood/index.html",
+    "main.6d29aa18.css.map": "/bollywood/static/css/main.6d29aa18.css.map",
+    "main.935452f4.js.map": "/bollywood/static/js/main.935452f4.js.map",
+    "453.3ecf07c6.chunk.js.map": "/bollywood/static/js/453.3ecf07c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d29aa18.css",
+    "static/js/main.935452f4.js"
+  ]
+}
